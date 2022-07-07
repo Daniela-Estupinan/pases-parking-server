@@ -34,7 +34,7 @@
   },
   "proxy": {
   "/auth/google": {
-    "target": "https://skin-care-tips.herokuapp.com/api/post/"
+    "target": "pases-parking-dbem/api/post/"
   }
 }
 }

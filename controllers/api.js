@@ -1,4 +1,4 @@
-const Post = require("../models/User");
+const Post = require("../models/item");
 const fs = require("fs");
 module.exports = class API{
     //fetch all posts
